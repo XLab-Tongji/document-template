@@ -12,7 +12,9 @@ Text editors, git
 ### Get the project
 
 - get the code from git lab
+	> git clone https://github.com/tjuyinkanglin/document-template.git
 
+- add the README.md to your project
 
 ## How to Run (项目运行方法)
 
