@@ -73,3 +73,15 @@ The sequence diagram is required, to show the whole process of the system from t
 ![process](images/detailed_design/process_flow_sample.png)
 
 ## Algorithm Design (算法设计)
+
+In some projects there will be some complicated algorithms. This section is used for the specification of the algorithm including the following information (all of these items are optional) :
+
+- backgroud (surveys or proto-algorithm introduction)
+- algorithm framework (flowchart of pseudocde)
+- dataset
+- dimensions & weight
+- key steps
+
+## Class Design (类设计)
+
+![class](images/detailed_design/class_design_sample.png)
