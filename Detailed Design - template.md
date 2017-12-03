@@ -23,6 +23,6 @@ Here gives a table template:
 
 The sequence diagram is required, to show the whole process of the system from the entry point to the end point, for each user scenario. Here gives a sample: 
 
-![process](images/Detailed Design/process_flow_sample.png)
+![process](images/Detailed_Design/process_flow_sample.png)
 
 ## Algorithm Design (算法设计)
