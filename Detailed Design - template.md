@@ -17,7 +17,69 @@ Here gives a table template:
 | id | integer | key, identifier |
 | name | char[64] | name of the user |
 
+
 ## Interface Specifications （接口规约）
+
+The specifications of interfaces used in interactions among subsystems, here gives a RESTful example:
+
+
+### *student/name*
+   
+---
+
+#### Description (接口描述)
+
+Get the name of a student
+
+|-|-|
+| Request Method | Get |
+| Authorization | Required |
+
+
+#### Parameters (参数)
+
+| Name | Located in | Description | Required | Schema |
+|:-:|:-:|:-|:-:|:-|
+| id | query | student id | Yes | number(double) |
+
+#### Responses (返回结果)
+
+| Code | Description | Schema |
+|:----:|:--------|:--|
+| 200 | Successful response | *name* : string | 
+
+##### 调用样例
+
+---
+
+` ``
+users/mobile?userId=214
+` ``
+
+
+---
+
+*** JSON示例 ***
+
+` ``
+
+{
+
+"code": 0,
+
+"msg": "",
+
+"data": {
+
+"mobile": 150888888888
+
+}
+
+}
+
+` ``
+
+
 
 ## Process Flow Design （过程流设计）
 
