@@ -1,10 +1,10 @@
 # Document-template
 
-## Introduction (项目简介)
+## Introduction
 
-This project is used as the document template of X-Lab, the document template includes README, Requirement Sepcification, Outline Design Specification and Detailed Design Specification
+This project is used as the document template of X-Lab, the document template includes README, Requirement Sepcification, Outline Design Specification and Detailed Design Specification. All document templates are writted down by markdown, and you can wirte the document either in Chinese or English.
 
-## How to Build (项目构建方法)
+## How to Use It
 
 ### Environment Requirements
 Text editors, git
@@ -14,10 +14,20 @@ Text editors, git
 - get the code from git lab
 	> git clone https://github.com/tjuyinkanglin/document-template.git
 
-- add the README.md to your project
+### Add README to the project
 
-## How to Run (项目运行方法)
+- open README-template.md and write the infomation of your project in it.
 
-## How to Use (项目基本功能)
+- rename README-template.md to README.md
 
-## Code Structure (代码结构说明)
+- add README.md to your project
+
+### Add Requirement Specification, Outline Design, and Detailed Design to the project
+
+- open the template file of these three documents and fill in the required information.
+
+- remove "-template" in the file name.
+
+- go to Wiki of your project repo.
+
+- Add three pages named Requirement Specification, Outline Design and Detailed Design.
