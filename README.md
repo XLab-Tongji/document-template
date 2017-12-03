@@ -26,8 +26,8 @@ Text editors, git
 
 - open the template file of these three documents and fill in the required information.
 
-- remove "-template" in the file name.
-
 - go to Wiki of your project repo.
 
 - Add three pages named Requirement Specification, Outline Design and Detailed Design.
+
+- Paste the document into the corresponding page.

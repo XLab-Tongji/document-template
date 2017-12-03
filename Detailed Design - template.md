@@ -1,1 +1,1 @@
-# Detailed Design
+# Detailed Design (详细设计规约)
