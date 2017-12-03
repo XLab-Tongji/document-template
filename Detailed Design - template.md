@@ -29,8 +29,9 @@ The specifications of interfaces used in interactions among subsystems, here giv
 
 #### Description (接口描述)
 
-Get the name of a student
+Get the name of a student.
 
+| | |
 |-|-|
 | Request Method | Get |
 | Authorization | Required |
@@ -48,36 +49,22 @@ Get the name of a student
 |:----:|:--------|:--|
 | 200 | Successful response | *name* : string | 
 
-##### 调用样例
+#### Request Sample
 
----
-
-` ``
+```
 users/mobile?userId=214
-` ``
+```
 
+#### Response Sample
 
----
-
-*** JSON示例 ***
-
-` ``
-
+```
 {
 
-"code": 0,
-
-"msg": "",
-
-"data": {
-
-"mobile": 150888888888
+  "name" : "Kanglin Yin"
 
 }
 
-}
-
-` ``
+```
 
 
 
