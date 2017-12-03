@@ -22,10 +22,8 @@ Here gives a table template:
 
 The specifications of interfaces used in interactions among subsystems, here gives a RESTful example:
 
-
-### *student/name*
-   
 ---
+### *student/name*   
 
 #### Description (接口描述)
 
@@ -65,7 +63,7 @@ users/mobile?userId=214
 }
 
 ```
-
+---
 
 
 ## Process Flow Design （过程流设计）
