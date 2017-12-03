@@ -8,8 +8,18 @@
 
 ### Database Design (数据库设计)
 
+Here gives a table template:
+
+**Table: User**
+| Column 	| Type 		| Description 		|
+|:--- :		|:---:		|:---				|
+| id 		| integer 	| key, identifier 	|
+| name      | char[64]  | name of the user  |
+
 ## Interface Specifications （接口规约）
 
 ## Process Flow Design （过程流设计）
+
+![process flow](images/Detailed Design/process_flow_sample.png)
 
 ## Algorithm Design (算法设计)
