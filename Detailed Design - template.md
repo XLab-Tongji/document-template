@@ -20,7 +20,7 @@ Here gives a table template:
 
 ## Interface Specifications （接口规约）
 
-The specifications of interfaces used in interactions among subsystems, here gives a RESTful example:
+The specifications of interfaces used in interactions among subsystems, here gives a RESTful example in the style of [Swagger](https://swagger.io/):
 
 ---
 ### *student/name*   
