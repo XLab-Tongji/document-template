@@ -1,6 +1,6 @@
 # Detailed Design (详细设计规约)
 
-(Note: Not all sections are required, just need to select some necessary sections according to your project.)
+*(Note: Not all sections are required, just need to select some necessary sections according to your project.)*
 
 ## Data Models (数据建模)
 
@@ -23,11 +23,11 @@ Here gives a table template:
 The specifications of interfaces used in interactions among subsystems, here gives a RESTful example in the style of [Swagger](https://swagger.io/):
 
 ---
-### *student/name*   
+### *customer/name*   
 
 #### Description (接口描述)
 
-Get the name of a student.
+Get the name of a customer.
 
 | | |
 |-|-|
@@ -39,7 +39,7 @@ Get the name of a student.
 
 | Name | Located in | Description | Required | Schema |
 |:-:|:-:|:-|:-:|:-|
-| id | query | student id | Yes | number(double) |
+| id | query | customer id | Yes | number(double) |
 
 #### Responses (返回结果)
 
@@ -47,13 +47,13 @@ Get the name of a student.
 |:----:|:--------|:--|
 | 200 | Successful response | *name* : string | 
 
-#### Request Sample
+#### Request Sample (示例请求)
 
 ```
-users/mobile?userId=214
+customer/name?userId=214
 ```
 
-#### Response Sample
+#### Response Sample (示例结果)
 
 ```
 {
