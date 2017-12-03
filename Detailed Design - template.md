@@ -11,15 +11,18 @@
 Here gives a table template:
 
 **Table: User**
-| Column 	| Type 		| Description 		|
-|:--- :		|:---:		|:---				|
-| id 		| integer 	| key, identifier 	|
-| name      | char[64]  | name of the user  |
+
+| Column | Type | Description |
+|:--- :|:---:|:---|
+| id | integer | key, identifier |
+| name | char[64] | name of the user |
 
 ## Interface Specifications （接口规约）
 
 ## Process Flow Design （过程流设计）
 
-![process flow](images/Detailed Design/process_flow_sample.png)
+The sequence diagram is required, to show the whole process of the system from the entry point to the end point, for each user scenario. Here gives a sample: 
+
+![process](images/Detailed Design/process_flow_sample.png)
 
 ## Algorithm Design (算法设计)
