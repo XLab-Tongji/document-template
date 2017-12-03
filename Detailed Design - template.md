@@ -13,7 +13,7 @@ Here gives a table template:
 **Table: User**
 
 | Column | Type | Description |
-|:--- :|:---:|:---|
+|:---:|:---:|:---|
 | id | integer | key, identifier |
 | name | char[64] | name of the user |
 
