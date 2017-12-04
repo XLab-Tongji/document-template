@@ -2,7 +2,12 @@
 
 ## Project Introduction (项目介绍)
 
-The backgroud and the purpose of the project
+The detailed introduction of the project, the following information are required to mentioned:
+
+- background
+- purpose of the project
+- target users
+- boundary of the project (what to project will do and what the project won't do)
 
 ## Rquirement Analysis (项目需求分析)
 
@@ -16,13 +21,15 @@ Here gives a sample template of a use case:
 
 ---
 
-### Use Case:
+### Use Case: _Use Case Name_
 
 #### Description
 
 Describes what the use case do.
 
 #### Participants
+
+Who (Users, systems) will attend the use case.
 
 #### Pre-condition
 
@@ -31,5 +38,9 @@ Describes what the use case do.
 #### Process Flow
 
 The process of the test case, either text descriptiopn or flow charts can be used here.
+
+#### Exceptions (Optional)
+
+Exceptions of the use case and how it is resolved.
 
 ---

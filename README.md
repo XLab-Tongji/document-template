@@ -28,6 +28,6 @@ Text editors, git
 
 - go to Wiki of your project repo.
 
-- Add three pages named Requirement Specification, Outline Design and Detailed Design.
+- add three pages named Requirement Specification, Outline Design and Detailed Design.
 
-- Paste the document into the corresponding page.
+- paste the document into the corresponding page.
