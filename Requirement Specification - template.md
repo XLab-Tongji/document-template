@@ -19,7 +19,9 @@ Using a KAOS diagram to decompose the project form high-level goals to user scen
 
 Based on the Requirement Analysis, make a Use Case Diagram for the project, and write use case specifications for each use case.
 
-Here gives a sample template of a use case:
+Here gives a sample use case diagram and a template of a use case:
+
+![Use Case sample](images/requirement_specification/usecase_sample.png)
 
 ---
 
