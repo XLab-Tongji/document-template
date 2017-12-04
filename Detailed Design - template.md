@@ -6,9 +6,15 @@
 
 ### Entity-Relation Design (实体-关系设计)
 
+An Entity-Relation Diagram is required to show the concepts in the project and their relations. And for each entity and realtion, there should be a description after the diagram.
+
+Here gives a sample E-R diagram:
+
+![E-R sample](images/detailed_design/er_sample.png)
+
 ### Database Design (数据库设计)
 
-Here gives a table template:
+According to the Entity-Realtion Design, the detailed database design for entities and relations should be listed as tables. Here gives a table template:
 
 **Table: User**
 
