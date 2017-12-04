@@ -84,4 +84,66 @@ In some projects there will be some complicated algorithms. This section is used
 
 ## Class Design (类设计)
 
+For class design, a total class diagram is required. Then each class needs a class description.
+
 ![class](images/detailed_design/class_design_sample.png)
+
+Here gives class description sample:
+
+---
+### Student
+
+*edu.tongji.entities*
+*public class **Student** extends **Human** *
+
+The student instance in the system.
+
+#### Fields
+
+| Modifier and Type | Field | Description |
+| :-- | :-- | :-- |
+| *public static int* | TYPE_ID | the user type identifier |
+| *private int* | id | student id |
+| *private string* | name | student name |
+
+#### Constructors
+
+##### Student(int id)
+
+Generate the student instance by student's id.
+
+**parameters**
+-id: the id of the student
+
+#### Methods
+
+##### getId
+*public int getId()*
+
+Get the student ID.
+
+**returns**
+the student id
+
+**parameters**
+none
+
+**throws**
+GeneralExpection
+
+##### getName
+*public String getName()*
+*public String getName(int type)*
+
+Get the student name.
+
+**returns**
+the student name
+
+**parameters**
+-type: 0:full name; 1: first name 2: family name
+
+**throws**
+GeneralExpection
+
+--- 
