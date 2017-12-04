@@ -1,4 +1,4 @@
-# README-template
+# README-template (Write your project name here)
 
 ## Introduction (项目简介)
 
@@ -35,3 +35,9 @@ Basic operations of the project.
 The directory structure of the repository. Each folder needs a description like:
 
 */images* - the folder contains the document images
+
+*/images/requirement_specification* - the image folder for requirement_specification.
+
+*/images/outline_design* - the image folder for outline design.
+
+*/images/detailed_design* - the image folder for detailed design. 
