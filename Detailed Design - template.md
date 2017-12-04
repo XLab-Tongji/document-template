@@ -95,7 +95,7 @@ Here gives class description sample:
 
 *edu.tongji.entities*
 
-*public class **Student** extends **Human** *
+_public class **Student** extends **Human**_
 
 The student instance in the system.
 
@@ -109,7 +109,7 @@ The student instance in the system.
 
 #### Constructors
 
-> Student(int id)
+'Student(int id)' 
 
 Generate the student instance by student's id.
 
@@ -119,7 +119,7 @@ Generate the student instance by student's id.
 #### Methods
 
 > getId
-*public int getId()*
+* public int getId() *
 
 Get the student ID.
 
