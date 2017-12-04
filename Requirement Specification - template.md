@@ -31,9 +31,13 @@ Describes what the use case do.
 
 Who (Users, systems) will attend the use case.
 
-#### Pre-condition
+#### Pre-condition (Optional)
 
-#### Post-condition
+The conditions should be satisfied before the use case starts.
+
+#### Post-condition (Optional)
+
+The conditions will be satisfied after the use case finishes.
 
 #### Process Flow
 
