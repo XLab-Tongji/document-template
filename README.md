@@ -31,3 +31,9 @@ Text editors, git
 - add three pages named Requirement Specification, Outline Design and Detailed Design.
 
 - paste the document into the corresponding page.
+
+## Some Regulations
+
+- Images should be drawn by <draw.io> or generated automatically by some software. Both the image and the origin file should be committed (in folder *images/*).
+
+- Knowledge sharing files should be reffered as hyperlinks in the document. 
