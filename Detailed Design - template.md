@@ -109,7 +109,7 @@ The student instance in the system.
 
 #### Constructors
 
-'Student(int id)' 
+>Student(int id)
 
 Generate the student instance by student's id.
 
@@ -124,15 +124,19 @@ Generate the student instance by student's id.
 Get the student ID.
 
 **returns**
+
 the student id
 
 **parameters**
+
 none
 
 **throws**
+
 GeneralExpection
 
 > getName
+
 *public String getName()*
 
 *public String getName(int type)*
@@ -140,12 +144,15 @@ GeneralExpection
 Get the student name.
 
 **returns**
+
 the student name
 
 **parameters**
+
 -type: 0:full name; 1: first name 2: family name
 
 **throws**
+
 GeneralExpection
 
 --- 
