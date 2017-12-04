@@ -11,7 +11,9 @@ The detailed introduction of the project, the following information are required
 
 ## Rquirement Analysis (项目需求分析)
 
-Using a KAOS diagram to decompose the project form high-level goals to user scenarios
+Using a KAOS diagram to decompose the project form high-level goals to user scenarios. Here gives a sample KAOS diagram for a library booking system:
+
+![KAOS sample](images/requirement_specification/KAOS_sample.png)
 
 ## Use Case Analysis (用例分析)
 

@@ -119,6 +119,7 @@ Generate the student instance by student's id.
 #### Methods
 
 > getId
+
 * public int getId() *
 
 Get the student ID.

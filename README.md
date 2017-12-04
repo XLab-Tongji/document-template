@@ -34,6 +34,8 @@ Text editors, git
 
 ## Some Regulations
 
-- Images should be drawn by <draw.io> or generated automatically by some software. Both the image and the origin file should be committed (in folder *images/*).
+- Images should be drawn by [draw.op](https://www.draw.io/) or generated automatically by some software. Both the image and the origin file should be committed (in folder *images/*).
 
 - Knowledge sharing files should be reffered as hyperlinks in the document. 
+
+- The home page of wiki should give hyperlinks to Requirement Specification, Outline Design and Detailed Design.
