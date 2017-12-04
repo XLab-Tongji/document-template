@@ -10,7 +10,7 @@ An Entity-Relation Diagram is required to show the concepts in the project and t
 
 Here gives a sample E-R diagram:
 
-![E-R sample](images/detailed_design/er_sample.png)
+![ER sample](images/detailed_design/er_sample.png)
 
 ### Database Design (数据库设计)
 
