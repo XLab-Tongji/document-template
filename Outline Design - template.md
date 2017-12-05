@@ -14,4 +14,6 @@ The architecture of the technology stacks (coding language, frameworks, librarie
 
 ## Deployment Topology (部署结构)
 
-How the project is deployed.
+Deployment Topology shows how the whole project is deployed in the physical environment, including servers, VMs/containers, networks, key components, etc. A overview picture is required to show the topology. Here is a sample picture of Deployment Topology:
+
+![deployment topology](images/outline_design/deployment_sample.png)
