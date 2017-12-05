@@ -8,6 +8,11 @@ The UI design of the project, add some mockups here. Here is a sample drawn by d
 
 ## Business Architecture (业务架构)
 
+The business architecture outline the key components in each layers of the project systems. Here is a sample:
+
+![business architecture](images/outline_design/business_architecture_sample.png)
+
+
 ## Technology Architecture (技术架构)
 
 The architecture of the technology stacks (coding language, frameworks, libraries, styles, etc) used in the project. Here gives an example:
